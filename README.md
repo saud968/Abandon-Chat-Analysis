@@ -52,6 +52,11 @@ This page gives us abandon, total chat count, and abandon % month-wise, day-wise
 ![Abandon Count Heatmap](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Heatmap%20Abandon%20Count.png)
 This page gives us abandon, total chat count, and abandon % month-wise, day-wise, and hour-wise in a heatmap version.
 
-3. Pillar Abandon Heatmap
+3. Pillar Abandon Heatmap.
+![New Slicer Button](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/New%20Button%20Slicer.png)
+![Abandon % Heatmap](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Heatmap%20Abandon%20%25.png)
+![Abandon Total Count Heatmap](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Heatmap%20Total%20Chat%20Count.png)
+![Abandon Count Heatmap](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Heatmap%20Abandon%20Count.png)
+This page gives us abandon, total chat count, and abandon % month-wise, day-wise, and hour-wise in a heatmap version. However, it has a new slicer button that allows to separate the business groups which is known as Pillar. 
 
 
