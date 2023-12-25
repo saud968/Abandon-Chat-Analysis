@@ -41,7 +41,7 @@ The report is set on multiple pages as per the requirement:
 1. Summary Page.
 ![Summary Page](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Intro%20Page.png)
 This page gives us abandon, total chat count, and abandon % month-wise, day-wise, and hour-wise with different visuals like Matrix, Bar and Line Chart, and Small Multiples. 
-![Abandon Week by Hours](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Abandon%20by%20Week.png))
+![Abandon Week by Hours](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Abandon%20by%20Week.png)
 ![Abandon Month by Hours](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Abandon%20by%20months%20by%20hours.png)
 ![Abandon Bar and Line Chart](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Abandon%20Overall%20Bar%20and%20Line%20Chart.png)
 ![Abandon Small Multiples](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Abandon%20Overall%20Bar%20and%20Line%20Chart%20(Small%20Multiples).png)
